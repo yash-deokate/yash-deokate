@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yash-deokate
 - 👀 I’m interested in Web Development and Computer science in general
-- 🌱 I’m currently learning Computer Science Engineering
+- 🌱 I’m currently working at Amadeus Software Labs as SDE-1
 - 💞️ I’m looking to collaborate on Web Dev Projects
 - 📫 How to reach me: Email: deokateyash@gmail.com
 
